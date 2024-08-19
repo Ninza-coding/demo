@@ -1,1 +1,1 @@
-Spring MVC project with MVC design pattren, with all seprate larery Doing Crud Operation
+Spring MVC project with MVC design pattren, with all seprate layers Doing Crud Operation
